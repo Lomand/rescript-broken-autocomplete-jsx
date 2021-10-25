@@ -1,4 +1,5 @@
 # ReScript Project Template
+## Example of broken JSX of dependancy components
 
 The only official ReScript starter template.
 
