@@ -8,7 +8,9 @@ var Core = require("@material-ui/core");
 function Demo(Props) {
   return React.createElement(React.Fragment, undefined, React.createElement(OtherComponent.make, {
                   name: "Sergey",
-                  age: 35
+                  age: 35,
+                  status: /* Available */0,
+                  team: "Delta"
                 }), React.createElement(Core.Typography, {
                   children: "Some Text"
                 }), React.createElement("div", undefined, "Hello World"));
