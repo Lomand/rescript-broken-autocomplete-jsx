@@ -6,3 +6,4 @@ let make = () => {
     <div> {React.string("Hello World")} </div>
   </>
 }
+Float.nan |> Js.log
