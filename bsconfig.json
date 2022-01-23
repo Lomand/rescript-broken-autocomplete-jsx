@@ -18,6 +18,7 @@
   },
   "bs-dependencies": [
     "@rescript/react",
+    "rescript-material-ui",
     "tablecloth-bucklescript"
   ]
 }
